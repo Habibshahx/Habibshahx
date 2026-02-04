@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Habib 👋
 
-<!--
-**Habibshahx/Habibshahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineering Intern with a strong programming foundation and hands-on experience across software, web, and data-focused development.
 
-Here are some ideas to get you started:
+### Technical Foundation
+- **C** – Programming Fundamentals (PF)
+- **Java** – Object-Oriented Programming (OOP)
+- **SQL** – Database design and queries
+- **Flutter** – Mobile application development
+- **HTML, CSS, JavaScript** – Web fundamentals
+- **React & Node.js** – Web application development
+- **Python** – Data analysis and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- Python
+- Pandas, NumPy
+- SQL
+- Machine Learning (fundamentals)
+- JavaScript, React, Node.js
+- Java, C
+
+### Featured Projects
+- **Bank Management System** – Console-based system in **C** (PF, file handling)
+- **Employee Payroll Management System** – Java + SQL desktop application
+- **Supermarket Sales Analysis** – Exploratory data analysis and business insights using Python
+- **Disaster Alert Dashboard** – React + Leaflet interactive dashboard
+
+### Currently Learning
+- Model training & evaluation
+- Feature engineering
+- Practical machine learning workflows
